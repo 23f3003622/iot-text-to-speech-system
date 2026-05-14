@@ -37,7 +37,9 @@ The project is powered by a rechargeable 18650 Li-ion battery and includes a Typ
   <img src="images/dashboard.jpeg" width="300">
 
   ## Circuit-diagram
-  ![circuit-diagram](images/dashboard.png)
+  <img src="circuit-diagram/circuit.jpeg" width="300">
+
+  
 
 ## Applications
 - Assistive communication systems
