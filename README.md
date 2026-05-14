@@ -1,6 +1,10 @@
 # IoT-Based Multilingual Text-to-Speech System
 
 ## Project Description
+
+  ## Circuit-diagram
+  <img src="circuit-diagram/circuit.jpeg" width="300">
+
 This project is an ESP8266 NodeMCU based IoT Text-to-Speech (TTS) system designed to convert user-input text into spoken audio using Wi-Fi connectivity and cloud-based speech synthesis services. The system provides a web-based dashboard where users can type text, select different language accents, and control audio volume.
 
 The NodeMCU communicates with the Google Translate and Google Text-to-Speech APIs to generate multilingual speech output. Audio playback is handled through the MAX98357A I2S digital audio amplifier connected to a speaker. The system uses LittleFS file storage to temporarily store MP3 audio files before playback.
@@ -35,10 +39,6 @@ The project is powered by a rechargeable 18650 Li-ion battery and includes a Typ
 
   ## Web Dashboard
   <img src="images/dashboard.jpeg" width="300">
-
-  ## Circuit-diagram
-  <img src="circuit-diagram/circuit.jpeg" width="300">
-
   
 
 ## Applications
