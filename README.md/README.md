@@ -8,9 +8,9 @@ The NodeMCU communicates with the Google Translate and Google Text-to-Speech API
 The project is powered by a rechargeable 18650 Li-ion battery and includes a Type-C charging/power module for portability. This makes the device suitable for assistive communication, smart IoT applications, educational demonstrations, and embedded systems learning.
 
 ### Hardware Setup
-![Hardware](images/hardware1.jpeg)
+![Hardware1](images/hardware1.jpeg)
 
-![Hardware](images/hardware2.jpeg)
+![Hardware2](images/hardware2.jpeg)
 
 ## Features
 - Wi-Fi enabled text-to-speech conversion
