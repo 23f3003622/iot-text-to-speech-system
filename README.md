@@ -34,7 +34,7 @@ The project is powered by a rechargeable 18650 Li-ion battery and includes a Typ
 - WiFiManager Library
 
   ## Web Dashboard
-  ![Dashboard](images/dashboard.png)
+  ![Dashboard](images/dashboard.jpeg)
 
   ## Circuit-diagram
   ![circuit-diagram](images/dashboard.png)
