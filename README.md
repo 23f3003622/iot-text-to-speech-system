@@ -33,6 +33,12 @@ The project is powered by a rechargeable 18650 Li-ion battery and includes a Typ
 - LittleFS File System
 - WiFiManager Library
 
+  ## Web Dashboard
+  ![Dashboard](images/dashboard.png)
+
+  ## Circuit-diagram
+  ![circuit-diagram](images/dashboard.png)
+
 ## Applications
 - Assistive communication systems
 - Smart IoT devices
